@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Felipe Cardoso
 
 
-- 🌱 Especializando em JavaScript TypeScript
-- 📚 Pretenção de estudos depois da especialização : Ingles | Java 
+- 🌱 Especializando em Node e Ingles
+- 📚 Pretenção de estudos depois da especialização : Java & Python
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
