@@ -15,3 +15,6 @@ JavaScript, Python, Java, Python, Selenium, Node.
     <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg"">
     <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"">
   </div>
+ <br>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliipecardosoo&layout=compact&langs_count=12&theme=dark"/>
+
