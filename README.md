@@ -4,7 +4,7 @@
 
 
  ### Main skills:
-JavaScript, Python, Java, Selenium, Node.
+Node, React 
 
 
 
