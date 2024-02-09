@@ -8,6 +8,6 @@
 <span width="41%" height="195px">[![spotify-github-profile ](https://spotify-github-profile.vercel.app/api/view?uid=djsoht80sg0sg8ue930z4nipz&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=djsoht80sg0sg8ue930z4nipz&redirect=true)</span>
 
 
-[!My Skills](https://skillicons.dev/icons?i=javascript,nodejs,typescript,react,vue,java,git,mongodb,mysql,postgres,postman,sqlite,selenium,sequelize,vscode&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,typescript,react,vue,java,git,mongodb,mysql,postgres,postman,sqlite,selenium,sequelize,vscode&perline=3)](https://skillicons.dev)
 
 </div>
