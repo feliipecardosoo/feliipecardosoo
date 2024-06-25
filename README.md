@@ -5,7 +5,7 @@ Sou um desenvolvedor dedicado, com uma rápida capacidade de aprendizado. Minha 
 💻 **Atualmente**
 
 ```txt
-Open to work.
+Técnico de Desenvolvimento Sistemas at Neoway.
 ```
 
 **Linguagens Principais**
