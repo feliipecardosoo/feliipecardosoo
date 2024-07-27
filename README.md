@@ -1,4 +1,4 @@
-### Olá!hj
+### Olá!
 
 Sou um desenvolvedor dedicado, com uma rápida capacidade de aprendizado. Minha paixão por software reside em conceber ideias e transformá-las em realidade através de códigos elegantes e bem estruturados. Dou grande importância à arquitetura e à qualidade do código em cada projeto que realizo.
 
