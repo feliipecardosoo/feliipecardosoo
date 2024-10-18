@@ -1,6 +1,6 @@
 ### Olá!!
 
-Sou um desenvolvedor dedicado, com uma rápida capacidade de aprendizado. Minha paixão por software reside em conceber ideias e transformá-las em realidade através de códigos elegantes e bem estruturados. Dou grande importância à arquitetura e à qualidade do código em cada projeto que realizo.
+Desenvolvedor dedicado, com uma rápida capacidade de aprendizado. Tenho ideias e transformo em realidade através de códigos bem estruturados e com excelente documentação. Dou grande importância à arquitetura e à qualidade do código em cada projeto que realizo.
 
 💻 **Atualmente**
 
@@ -26,4 +26,4 @@ Técnico de Desenvolvimento Sistemas - Neoway.
 
 **Infraestrutura e DevOps**
 
-Possuo conhecimentos em servidores, tanto locais como virtuais. Tenho experiência em instâncias Amazon, criação de servidores web com NGINX, e configuração de certificados SSL. Além disso, sou familiarizado com o uso de Docker para containerização de aplicações.
+Possuo conhecimentos em servidores. Tenho experiência em instâncias Amazon, criação de servidores web com NGINX, e configuração de certificados SSL. Além disso, tenho certificação de Docker/Docker swarm e Kubernetes.
