@@ -26,4 +26,4 @@ Técnico de Desenvolvimento Sistemas - Neoway.
 
 **Infraestrutura e DevOps**
 
-Possuo conhecimentos em servidores. Tenho experiência em instâncias Amazon, criação de servidores web com NGINX, e configuração de certificados SSL. Além disso, tenho certificação de Docker/Docker swarm e Kubernetes.
+Possuo conhecimentos em servidores. Tenho experiência em AWS (ec2, IAM, VPC, route 53, S3, CloudWatch, CloudFRont, WAF) e conhecimento amplo em redes. Além disso, tenho certificação de Docker/Docker swarm e Kubernetes.
