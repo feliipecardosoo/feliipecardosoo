@@ -1,4 +1,4 @@
-### Olá
+### Olá!
 
 Desenvolvedor dedicado, com uma rápida capacidade de aprendizado. Tenho ideias e transformo em realidade através de códigos bem estruturados e com excelente documentação. Dou grande importância à arquitetura e à qualidade do código em cada projeto que realizo.
 
