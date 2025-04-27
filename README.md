@@ -1,6 +1,6 @@
 **Desenvolvedor com foco em DevOps, engenharia de software e sistemas performáticos. Tenho experiência no desenvolvimento completo de soluções.**
 
-**Atualmente:** Técnico de Desenvolvimento de Sistemas na **Neoway**. 
+**Atualmente:** Técnico de Desenvolvimento de Sistemas na **Neoway**
 
 **Expertise em:**
 
