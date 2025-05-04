@@ -8,4 +8,3 @@
 - **Desenvolvimento:** aplicações robustas e escaláveis, com foco em arquitetura limpa, código bem estruturado e alta performance.
 - **Banco de dados:** modelagem, otimização (tuning) e queries performáticas.
 - **Sistemas ponta a ponta:** experiência completa em desenvolvimento **front-end**, **back-end** e **infraestrutura**, integrando tudo em soluções coesas e eficientes.
-j
