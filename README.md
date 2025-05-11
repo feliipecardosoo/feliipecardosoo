@@ -3,7 +3,7 @@
 **Atualmente:** Dev na **Neoway**
 
 **Expertise em:**
-
+  .
 - **DevOps & Infraestrutura:** automação de ambientes, infraestrutura como código, CI/CD com Jenkins, Docker, Kubernetes, AWS, além de monitoramento e segurança
 - **Desenvolvimento:** aplicações robustas e escaláveis, com foco em arquitetura limpa, código bem estruturado e alta performance.
 - **Banco de dados:** modelagem, otimização (tuning) e queries performáticas.
