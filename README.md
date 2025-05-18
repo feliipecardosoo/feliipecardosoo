@@ -1,7 +1,7 @@
 **Desenvolvedor com foco em DevOps, engenharia de software e sistemas performáticos. Tenho experiência no desenvolvimento completo de soluções.**
   
 **Atualmente:** Dev na **Neoway**
-.
+
 **Expertise em:**
 
 - **DevOps & Infraestrutura:** automação de ambientes, infraestrutura como código, CI/CD com Jenkins, Docker, Kubernetes, AWS, além de monitoramento e segurança
