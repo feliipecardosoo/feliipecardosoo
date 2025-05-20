@@ -1,10 +1,75 @@
-**Desenvolvedor com foco em DevOps, engenharia de software e sistemas performáticos. Tenho experiência no desenvolvimento completo de soluções.**
-  
-**Atualmente:** Dev na **Neoway**
+> Entrega teu caminho ao Senhor, confia nele e o mais Ele fará.
 
-**Expertise em:**
+```go
+package main
 
-- **DevOps & Infraestrutura:** automação de ambientes, infraestrutura como código, CI/CD com Jenkins, Docker, Kubernetes, AWS, além de monitoramento e segurança
-- **Desenvolvimento:** aplicações robustas e escaláveis, com foco em arquitetura limpa, código bem estruturado e alta performance.
-- **Banco de dados:** modelagem, otimização (tuning) e queries performáticas.
-- **Sistemas ponta a ponta:** experiência completa em desenvolvimento **front-end**, **back-end** e **infraestrutura**, integrando tudo em soluções coesas e eficientes.
+import (
+	"fmt"
+	"time"
+)
+
+type Developer struct {
+	Name           string
+	CurrentCompany string
+	Focus          []string
+	Skills         map[string][]string
+}
+
+func (d Developer) Introduce() {
+	fmt.Printf("👋 Olá, eu sou %s!\n", d.Name)
+	fmt.Printf("💻 Atualmente trabalho na %s como Dev focado em DevOps, engenharia de software e sistemas performáticos.\n", d.CurrentCompany)
+	fmt.Println("🚀 Experiência em desenvolvimento completo de soluções e integração ponta a ponta.")
+	fmt.Println()
+	fmt.Println("🔧 Expertise em:")
+	for area, skills := range d.Skills {
+		fmt.Printf("➡️  %s:\n", area)
+		for _, skill := range skills {
+			fmt.Printf("   - %s\n", skill)
+		}
+		fmt.Println()
+	}
+	fmt.Println("🌎 Sempre buscando aprendizado contínuo e performance nos sistemas que desenvolvo.")
+}
+
+func main() {
+	felipe := Developer{
+		Name:           "Felipe Cardoso",
+		CurrentCompany: "Neoway",
+		Focus: []string{
+			"DevOps",
+			"Engenharia de Software",
+			"Sistemas Performáticos",
+		},
+		Skills: map[string][]string{
+			"DevOps & Infraestrutura": {
+				"Automação de ambientes",
+				"Infrastructure as Code (IaC)",
+				"CI/CD com Jenkins",
+				"Docker & Kubernetes",
+				"AWS",
+				"Monitoramento e Segurança",
+			},
+			"Desenvolvimento": {
+				"Arquitetura limpa",
+				"Código bem estruturado",
+				"Alta performance",
+			},
+			"Banco de dados": {
+				"Modelagem",
+				"Tuning (otimização)",
+				"Queries performáticas",
+			},
+			"Sistemas ponta a ponta": {
+				"Front-end",
+				"Back-end",
+				"Infraestrutura integrada",
+			},
+		},
+	}
+
+	felipe.Introduce()
+
+	// Apenas por diversão
+	fmt.Println("⚡️ Código rodando desde:", time.Now().Format("02-Jan-2006 15:04:05"))
+}
+```
