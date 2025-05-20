@@ -17,7 +17,8 @@ type Developer struct {
 
 func (d Developer) Introduce() {
 	fmt.Printf("👋 Olá, eu sou %s!\n", d.Name)
-	fmt.Printf("💻 Atualmente trabalho na %s como Dev focado em DevOps, engenharia de software e sistemas performáticos.\n", d.CurrentCompany)
+	fmt.Printf("💻 Atualmente trabalho na %s como Dev focado em DevOps,
+	engenharia de software e sistemas performáticos.\n", d.CurrentCompany)
 	fmt.Println("🚀 Experiência em desenvolvimento completo de soluções e integração ponta a ponta.")
 	fmt.Println()
 	fmt.Println("🔧 Expertise em:")
