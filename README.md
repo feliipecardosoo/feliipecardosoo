@@ -1,4 +1,4 @@
-> 📖 *"Entrega o teu caminho ao Senhor; confia nele, e o mais Ele fará."* – Salmos 37:5
+z> 📖 *"Entrega o teu caminho ao Senhor; confia nele, e o mais Ele fará."* – Salmos 37:5
 
 ```go
 package main
