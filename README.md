@@ -10,7 +10,6 @@ import (
 func main() {
 	fmt.Println("Olá, me chamo Felipe Cardoso!")
 	fmt.Println("Dev focado em DevOps, engenharia de software e performance.")
-	fmt.Println("Código rodando desde: 20-Mai-2025")
 }
 
 
