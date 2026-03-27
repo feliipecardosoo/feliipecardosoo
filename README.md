@@ -12,7 +12,7 @@ func main() {
 	fmt.Println("Profissional com foco em DevOps, engenharia de software e performance.")
 }
 ```
-Atualmente atuo como profissional de tecnologia na Neoway. Tenho experiência prática com integração contínua, entrega contínua, containers, infraestrutura escalável e desenvolvimento backend de alta qualidade.
+Atualmente atuo como profissional de tecnologia na Trillia (b3). Tenho experiência prática com integração contínua, entrega contínua, containers, infraestrutura escalável e desenvolvimento backend de alta qualidade, possuo alguns sistemas no ar.
 
 ## 🛠️ Competências Técnicas
 
